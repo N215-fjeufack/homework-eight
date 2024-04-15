@@ -1,5 +1,7 @@
 nav {
   height: 50px;
+  max-width: 1024px;
+  margin: 0 auto;
   background-color: #000;
   display: flex;
   align-items: center;
@@ -8,5 +10,8 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #fff;
+  color: pink;
+  text-transform: uppercase;
+  font-weight: lighter;
+  letter-spacing: 2px;
 }
