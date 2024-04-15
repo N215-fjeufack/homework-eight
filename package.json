@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "compile": "sass scss/styles.scss css/styles.css -w",
-    "serve": "live server"
+    "serve": "live-server"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "sass": "^1.70.0"
+    "sass": "^1.75.0"
   }
 }
